@@ -4,7 +4,7 @@
       <a href="#" class="btn btn-primary float-end mt-n1"><i class="fas fa-plus"></i> New project</a>
       <div class="mb-3">
          <h1 class="h3 d-inline align-middle">Projects</h1>
-         <a class="badge bg-primary ms-2" href="https://adminkit.io/pricing/" target="_blank">Pro Component <i class="fas fa-fw fa-external-link-alt"></i></a>
+        
       </div>
       <div class="row">
          <div class="col-12 col-md-6 col-lg-3">

@@ -2,7 +2,7 @@
 <main class="content">
     <div class="container-fluid p-0">
         <div class="mb-3">
-            <h1 class="h3 d-inline align-middle">Plans &amp; Pricing</h1><a class="badge bg-primary ms-2" href="https://adminkit.io/pricing/" target="_blank">Pro Component <i class="fas fa-fw fa-external-link-alt"></i></a>
+            <h1 class="h3 d-inline align-middle">Plans &amp; Pricing</h1>
         </div>
         <div class="row">
             <div class="col-md-10 col-xl-8 mx-auto">
