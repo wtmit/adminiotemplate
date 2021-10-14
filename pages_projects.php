@@ -4,7 +4,6 @@
       <a href="#" class="btn btn-primary float-end mt-n1"><i class="fas fa-plus"></i> New project</a>
       <div class="mb-3">
          <h1 class="h3 d-inline align-middle">Projects</h1>
-        
       </div>
       <div class="row">
          <div class="col-12 col-md-6 col-lg-3">
@@ -33,9 +32,9 @@
                   <p>Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque
                      sed ipsum.
                   </p>
-                   <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                   <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                   <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
                </div>
                <ul class="list-group list-group-flush">
                   <li class="list-group-item px-4 pb-4">
@@ -74,9 +73,9 @@
                   <p>Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat
                      at massa.
                   </p>
-                   <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                   <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                   <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
                </div>
                <ul class="list-group list-group-flush">
                   <li class="list-group-item px-4 pb-4">
@@ -115,9 +114,9 @@
                   <p>Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque
                      sed ipsum.
                   </p>
-                   <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                   <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                   <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
                </div>
                <ul class="list-group list-group-flush">
                   <li class="list-group-item px-4 pb-4">
@@ -156,9 +155,9 @@
                   <p>Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam
                      ultrices mauris.
                   </p>
-                   <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                       <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                           <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
                </div>
                <ul class="list-group list-group-flush">
                   <li class="list-group-item px-4 pb-4">
@@ -173,7 +172,7 @@
          </div>
          <div class="col-12 col-md-6 col-lg-3">
             <div class="card">
-                <img class="card-img-top" src="assets/img/photos/unsplash-1.jpg" alt="Unsplash" />
+               <img class="card-img-top" src="assets/img/photos/unsplash-1.jpg" alt="Unsplash" />
                <div class="card-header px-4 pt-4">
                   <div class="card-actions float-end">
                      <div class="dropdown show">
@@ -198,9 +197,9 @@
                   <p>Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam
                      ultrices mauris.
                   </p>
-                   <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                       <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                           <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
                </div>
                <ul class="list-group list-group-flush">
                   <li class="list-group-item px-4 pb-4">
@@ -215,7 +214,7 @@
          </div>
          <div class="col-12 col-md-6 col-lg-3">
             <div class="card">
-                <img class="card-img-top" src="assets/img/photos/unsplash-2.jpg" alt="Unsplash" />
+               <img class="card-img-top" src="assets/img/photos/unsplash-2.jpg" alt="Unsplash" />
                <div class="card-header px-4 pt-4">
                   <div class="card-actions float-end">
                      <div class="dropdown show">
@@ -240,9 +239,9 @@
                   <p>Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque
                      sed ipsum.
                   </p>
-                   <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                       <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                           <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
                </div>
                <ul class="list-group list-group-flush">
                   <li class="list-group-item px-4 pb-4">
@@ -257,7 +256,7 @@
          </div>
          <div class="col-12 col-md-6 col-lg-3">
             <div class="card">
-                <img class="card-img-top" src="assets/img/photos/unsplash-3.jpg" alt="Unsplash" />
+               <img class="card-img-top" src="assets/img/photos/unsplash-3.jpg" alt="Unsplash" />
                <div class="card-header px-4 pt-4">
                   <div class="card-actions float-end">
                      <div class="dropdown show">
@@ -282,9 +281,9 @@
                   <p>Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam
                      ultrices mauris.
                   </p>
-                   <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                       <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                           <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
                </div>
                <ul class="list-group list-group-flush">
                   <li class="list-group-item px-4 pb-4">
@@ -299,7 +298,7 @@
          </div>
          <div class="col-12 col-md-6 col-lg-3">
             <div class="card">
-                <img class="card-img-top" src="assets/img/photos/unsplash-1.jpg" alt="Unsplash" />
+               <img class="card-img-top" src="assets/img/photos/unsplash-1.jpg" alt="Unsplash" />
                <div class="card-header px-4 pt-4">
                   <div class="card-actions float-end">
                      <div class="dropdown show">
@@ -324,9 +323,9 @@
                   <p>Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat
                      at massa.
                   </p>
-                   <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                       <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
-                           <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-3.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar-2.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
+                  <img src="assets/img/avatars/avatar.jpg" class="rounded-circle me-1" alt="Avatar" width="28" height="28" />
                </div>
                <ul class="list-group list-group-flush">
                   <li class="list-group-item px-4 pb-4">
