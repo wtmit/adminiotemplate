@@ -40,7 +40,7 @@
                            </div>
                            <p>Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada.</p>
                            <div class="float-end mt-n1">
-                              <img src="assets/img/avatars/avatar.jpg" width="32" height="32" class="rounded-circle" alt="Avatar">
+                              <img src="assets/img/avatars/avatar.jpg" width="32" height="32" class="rounded-circle" alt="Avatar" />
                            </div>
                            <a class="btn btn-primary btn-sm" href="#">View</a>
                         </div>
@@ -55,7 +55,7 @@
                            </div>
                            <p>Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.</p>
                            <div class="float-end mt-n1">
-                              <img src="assets/img/avatars/avatar-2.jpg" width="32" height="32" class="rounded-circle" alt="Avatar">
+                              <img src="assets/img/avatars/avatar-2.jpg" width="32" height="32" class="rounded-circle" alt="Avatar" />
                            </div>
                            <a class="btn btn-primary btn-sm" href="#">View</a>
                         </div>
