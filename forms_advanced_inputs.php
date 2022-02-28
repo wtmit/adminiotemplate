@@ -100,7 +100,7 @@
                         <div class="choices__inner">
                            <select class="form-control choices-multiple choices__input" multiple="" hidden="" tabindex="-1" data-choice="active"></select>
                            <div class="choices__list choices__list--multiple"></div>
-                           <input type="text" class="choices__input choices__input--cloned" autocomplete="off" autocapitalize="off" spellcheck="false" role="textbox" aria-autocomplete="list" aria-label="false">
+                           <input type="text" class="choices__input choices__input--cloned" autocomplete="off" autocapitalize="off" spellcheck="false" role="textbox" aria-autocomplete="list" aria-label="false" />
                         </div>
                         <div class="choices__list choices__list--dropdown" aria-expanded="false">
                            <div class="choices__list" aria-multiselectable="true" role="listbox">
